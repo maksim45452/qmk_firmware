@@ -3,12 +3,15 @@
 
 #include "config_common.h"
 
+<<<<<<< HEAD:keyboards/fusion/config.h
 #define VENDOR_ID       0x6B62
 #define PRODUCT_ID      0x4655
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    SciencePirate
 #define PRODUCT         FUSION
 
+=======
+>>>>>>> master:keyboards/ericrlau/numdiscipline/rev1/config.h
 /* key matrix size */
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 4

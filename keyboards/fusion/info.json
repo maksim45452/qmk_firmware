@@ -1,7 +1,19 @@
 {
+<<<<<<< HEAD:keyboards/fusion/info.json
     "keyboard_name": "fusion",
     "url": "",
     "maintainer": "SciencePirate",
+=======
+    "keyboard_name": "x16",
+    "manufacturer": "yinxianwei",
+    "url": "",
+    "maintainer": "yinxianwei",
+    "usb": {
+        "vid": "0x4B50",
+        "pid": "0x016A",
+        "device_version": "0.0.1"
+    },
+>>>>>>> master:keyboards/x16/info.json
     "layouts": {
         "LAYOUT_ortho_5x4": {
             "layout": [
